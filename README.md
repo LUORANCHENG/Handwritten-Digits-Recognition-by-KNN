@@ -10,5 +10,5 @@
 ## 实现流程已经在python文件里面做了详细的注释，这里不再说明
 
 <div align="center">
-<img src="https://github.com/LUORANCHENG/Handwritten-Digits-Recognition-by-KNN/blob/main/%E6%8A%A5%E5%91%8A/webwxgetmsgimg.png" width="500" >
+<img src="https://github.com/LUORANCHENG/Handwritten-Digits-Recognition-by-KNN/blob/main/%E6%8A%A5%E5%91%8A/webwxgetmsgimg.gif" width="500" >
 </div>
